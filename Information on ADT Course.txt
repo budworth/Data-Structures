@@ -1,0 +1,12 @@
+These are examples of abstract data type classes that my partners and I created. 
+I was designated as team lead and was the driver during coding. The code was written
+using MS Visual Studio and was turned by connecting into a Linux terminal and creating 
+a make file and then submitting. 
+
+For the group work we used Google Hangouts to share our screens and work together. Our files
+would be saved on the shcools linux system where we could all access them through a Linux
+Terminal.
+
+This course was a lot of fun. Although the coding is not perfect, I am proud of what we
+accomplished. We spent the majority of our time working on the assignments and making sure
+that hey passed the testBed.
